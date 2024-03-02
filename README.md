@@ -1,4 +1,4 @@
-# python_database_project
+# python_database
 
 ## Project Information
 
